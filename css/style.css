@@ -1,0 +1,80 @@
+body{
+    background-color: #63a3b1;
+    position: relative;
+}
+.titulo{
+    font-size: 80px;
+    color: #ffffff;
+    top: 10px;
+    text-align: center;
+    position: relative;
+}
+.escolha{
+    font-size: 30px;
+    color: #ffffff;
+    top: 80px;
+    text-align: center;
+    position: relative;
+}
+.btn{
+    font-size: 30px;
+    background-color: #00404E;
+    color: #ffffff;
+    width: 280px;
+    text-align: center;
+    position: relative;
+}
+.fonte{
+    color: #ffffff;
+
+}
+#ad{
+    top: 120px;
+    left: 360px;
+    color: #ffffff;
+    position: relative;
+
+}
+#pot{
+    top: 120px;
+    left: 430px;
+    color: #ffffff;
+    position: relative;
+
+}
+#sub{
+    top: 190px;
+    left:-209px;
+    color: #ffffff;
+    position: relative;
+}
+#rai{
+    top: 190px;
+    left: -139px;
+    color: #ffffff;
+    position: relative;
+}
+#mul{
+    top: 201px;
+    left: 360px;
+    color: #ffffff;
+    position: relative;
+}
+#are{
+    top: 201px;
+    left: 430px;
+    color: #ffffff;
+    position: relative;
+}
+#divi{
+    top: 272px;
+    left: -209px;
+    color: #ffffff;
+    position: relative;
+}
+#bha{
+    top: 272px;
+    left: -139px;
+    color: #ffffff;
+    position: relative;
+}
